@@ -1,9 +1,16 @@
 ### 👋✨ 한결같은 개발자 문승희 입니다 ✨👋
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mmoongcoco&theme=dark&show_icons=true)
 
-### Portfolio
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+### 📚Portfolio
+<a href="https://blog.naver.com/mmoongcoco">
+   <img src="https://img.shields.io/badge/Blog-FF9800?style=flat&logo=Blogger&logoColor=white" />
+</a>
+<a href="mmoongcoco@gmail.com">
+   <img src="https://img.shields.io/badge/Mail-30B980?style=flat&logo=Gmail&logoColor=white" />
+</a>
+<a href="https://www.notion.so/e2bc62ba97904753870c970cd162f4e1">
+   <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white" />
+</a>
 
 ### 💻Tech Stack
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
@@ -20,7 +27,6 @@
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/mariaDB-003545?style=for-the-badge&logo=mariaDB&logoColor=white) 
 ![gradle](https://img.shields.io/badge/gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
-![Maven](https://img.shields.io/badge/Apache Maven-02303A?style=for-the-badge&logo=#C71A36&logoColor=white)
 
 ### ⚒️ Tools 🛠️
 <img src="https://img.shields.io/badge/Eclipse%20IDE-2C2255?style=flat&logo=EclipseIDE&logoColor=white" /> <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=VisualStudioCode&logoColor=white" /> <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=flat&logo=visual-studio&logoColor=white" /> <img src="https://img.shields.io/badge/Tomcat-F8DC75?style=flat&logo=ApacheTomcat&logoColor=white" /> <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=AmazonAWS&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" /> <img src="https://img.shields.io/badge/Source Tree-0052CC?style=flat&logo=Source Tree&logoColor=white" /> <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=Postman&logoColor=white" />

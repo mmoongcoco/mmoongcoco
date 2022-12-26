@@ -2,14 +2,13 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mmoongcoco&theme=dark&show_icons=true)
 
 ### 📚Portfolio
-<a href="https://blog.naver.com/mmoongcoco">
-   <img src="https://img.shields.io/badge/Blog-FF9800?style=flat&logo=Blogger&logoColor=white" />
-</a>
-<a href="mmoongcoco@gmail.com">
-   <img src="https://img.shields.io/badge/Mail-30B980?style=flat&logo=Gmail&logoColor=white" />
-</a>
+<!-- 노션 -->
 <a href="https://www.notion.so/e2bc62ba97904753870c970cd162f4e1">
    <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white" />
+</a>
+<!-- 네이버블로그 -->
+<a href="https://blog.naver.com/mmoongcoco">
+   <img src="https://img.shields.io/badge/Blog-FF9800?style=flat&logo=Blogger&logoColor=white" />
 </a>
 
 ### 💻Tech Stack
